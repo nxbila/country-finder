@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125.8 million",
+    "interestingFact": "Japan is made up of over 6,800 islands."
+  },
+  {
+    "id": 2,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "38 million",
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "213 million",
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "104 million",
+    "interestingFact": "Egypt is home to the only remaining ancient wonder, the Great Pyramid of Giza."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "25.7 million",
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 6,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.4 billion",
+    "interestingFact": "India is the world’s largest democracy."
+  },
+  {
+    "id": 7,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "67 million",
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": "60 million",
+    "interestingFact": "South Africa has three capital cities: Pretoria, Bloemfontein, and Cape Town."
+  },
+  {
+    "id": 9,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": "51.7 million",
+    "interestingFact": "South Korea is the world’s largest shipbuilder."
+  },
+  {
+    "id": 10,
+    "countryName": "Norway",
+    "capital": "Oslo",
+    "population": "5.4 million",
+    "interestingFact": "Norway introduced salmon sushi to Japan in the 1980s."
+  }
+]
