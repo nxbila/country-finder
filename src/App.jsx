@@ -8,6 +8,7 @@ import { ErrorPage
   
  } from "./pages/ErrorPage";
 import { AppLayout } from "./components/layout/AppLayout";
+import { CountryDetails } from "./components/layout/CountryDetails";
 
 const router = createBrowserRouter([
   {
@@ -31,7 +32,11 @@ const router = createBrowserRouter([
   {
     path: "country",
     element: <Country />,
-  }
+  },
+  {
+    path: "country/:id",
+    element: <CountryDetails />,
+  },
 ]
 }])
 
